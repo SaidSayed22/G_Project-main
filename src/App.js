@@ -23,7 +23,7 @@ import DoctorDetails from "./Components/DoctorDetails";
 import SignUserLogin from "./Components/SignUserLogin";
 import SignUserRegister from "./Components/SignUserRegister";
 
-export const Base_URl = 'https://3180-41-46-39-13.ngrok-free.app'
+export const Base_URl = 'https://6647-154-178-242-152.ngrok-free.app'
 
 
 function App() {

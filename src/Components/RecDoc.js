@@ -38,7 +38,7 @@ function RecDoc() {
       const config = {
         headers: {
           'Accept': 'application/json',
-          'Authorization': `Bearer ${token}`,
+          'Authorization': `token ${token}`,
         }
       };
 
